@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/bin/Debug/netcoreapp3.1/Gomoku.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/bin/Debug/netcoreapp3.1/Gomoku.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/bin/Debug/netcoreapp3.1/Gomoku.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/bin/Debug/netcoreapp3.1/Gomoku.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/bin/Debug/netcoreapp3.1/Gomoku.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/obj/Debug/netcoreapp3.1/Gomoku.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/obj/Debug/netcoreapp3.1/Gomoku.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/obj/Debug/netcoreapp3.1/Gomoku.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/obj/Debug/netcoreapp3.1/Gomoku.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/obj/Debug/netcoreapp3.1/Gomoku.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/obj/Debug/netcoreapp3.1/Gomoku.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/SEM2_2021/IFN563/Gomoku/obj/Debug/netcoreapp3.1/Gomoku.genruntimeconfig.cache
